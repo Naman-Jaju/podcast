@@ -6,6 +6,10 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --background: #E2DAD6;
+  --text: #7FA1C3;
+  --heading: #6482AD;
+  --buttons: #F5EDED;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -13,6 +17,10 @@
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
+    --background:#222831;
+    --text: #EEEEEE;
+    --heading: #76ABAE;
+    --buttons: #31363F;
   }
 }
 
